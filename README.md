@@ -1,3 +1,3 @@
 # This is a readme file
 ## Some Code 
-```print(a + b)```
+```python3 test.py```
