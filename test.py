@@ -1,4 +1,4 @@
-a = 4
-b = 3
-
-print(a + b)
+i = 7
+j = 10
+print(i + j)
+print("hello SIUe")
